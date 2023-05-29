@@ -1,2 +1,2 @@
-s = "bu fayl item branchda turupsan"
-
+def restart():
+    return 'restart'
