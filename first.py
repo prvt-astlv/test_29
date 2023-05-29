@@ -1,3 +1,2 @@
-a = 5
-b = 7
-print("hi")
+s = "bu fayl item branchda turupsan"
+
