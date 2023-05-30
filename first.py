@@ -1,2 +1,2 @@
-def restart():
-    return 'restart'
+def f(a, b):
+    return (a + b)
